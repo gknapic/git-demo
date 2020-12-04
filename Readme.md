@@ -3,8 +3,8 @@ Gabrijela Knapic
 ## h2 header
 ### h3 header 
 ###### h6 header
-običan tekst 
-ovo je **boldano**
+običan tekst  
+ovo je **boldano**  
 ovo je *~~italic italic~~*
 
 **LINK:**
